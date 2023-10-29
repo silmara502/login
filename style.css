@@ -170,6 +170,7 @@ ul{
 @media (max-width: 800px) {
     .container{
         grid-template-columns: 1fr;
+        margin-top: 40px;
     }
     .conteudo h1{
        text-align: center;
