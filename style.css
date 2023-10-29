@@ -100,7 +100,7 @@ ul{
 .container{
     max-width: 1200px;
     padding: 10px 60px;
-    margin: 30px auto;
+    margin: 135px auto;
     display: grid;
     grid-template-columns: 1fr auto;
     justify-content: center;
@@ -170,6 +170,9 @@ ul{
 @media (max-width: 800px) {
     .container{
         grid-template-columns: 1fr;
+    }
+    .conteudo h1{
+       text-align: center;
     }
     .formulario{
         margin: 0 auto;
